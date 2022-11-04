@@ -1,1 +1,1 @@
-# lab7
+#This is the first assignment that includes css, html, and javascript
